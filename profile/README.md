@@ -18,16 +18,6 @@ This is a list abandonware from elsewhere on the web which we have adopted, test
 1. [I2C](https://github.com/dyumnin/verilog-i2c)
 2. [SPI_Slave](https://github.com/jahagirdar/axi_spi_slave)
 3. [SPI_Master](https://github.com/dyumnin/axi_spi_master)
-## Cococotb 
+## Cocotb 
 1. [cocotbext-APB](https://github.com/jahagirdar/cocotbext-apb)
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+2. Also checkout the VIP's developed by [our interns](https://github.com/Dyumnin-Interns)
