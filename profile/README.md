@@ -2,6 +2,7 @@
 Public Domain tool and scripts for various flows and processes used at Dyumnin Semiconductors.
 ## New account setup.
 When you login to a new server clone [setupscripts](https://github.com/dyumnin/setupscripts) and run `sudo setup.sh` to setup the default RC files.
+run `pipx install dyu` to get the project related tools.
 ## Accounting Package.
 If you are our book-keeper, The account scripts are in [dyu_accounting](https://github.com/dyumnin/dyu_accounting)
 ## Project Management.
