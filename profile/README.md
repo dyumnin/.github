@@ -13,6 +13,9 @@ The project management setup consists of 2 components.
 # Reusable IP's for ASIC and FPGA Development.
 1. ASIC Cells: Logic that is typically replaced by standard cells during PNR, Clock Muxes, Clock Gates, 2-3 flop synchronizers, reset synchronizers etc.
 2. [cocotbext cookiecutter](https://github.com/dyumnin/cookiecutter-cocotbext) Cookiecutter script for setting up development of new cocotb VIP.
+3. [cocotbext-bsv](https://github.com/jahagirdar/cocotbext-bsv) Cocotb Drivers for Std Bluespec interfaces (Action, ActionValue, Method, FIFO, Get/Put etc.)
+4. [vim-bsv](https://github.com/jahagirdar/vim-bsv) Added ALE support for BSV
+5. [peakrdl-bsv](https://github.com/jahagirdar/peakrdl-bsv) CSR Register generation for Bluespec systemverilog
 ## Rescued Abandonware
 This is a list abandonware from elsewhere on the web which we have adopted, tested and bugfixed and tapedout.
 ### Verilog
